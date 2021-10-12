@@ -6,5 +6,6 @@ public class DummyPrgm {
 		System.out.println("hai this is dummy java prgm");
 		System.out.println("new line added in Dummy prgm");
 		//hi
+		System.out.println("new line added through Git Repo");
 	}
 }
